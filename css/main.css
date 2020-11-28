@@ -1,0 +1,25 @@
+h2 {
+    color: #5c8599;
+  }
+  
+  .button button {
+    height: 5rem;
+    width: 8rem;
+    background: #f5f8fa;
+    border: 1px solid #d3e2e5;
+    color: #5c8599;
+    cursor: pointer;
+    border-radius: 1.4rem;
+  
+    font-family: "Roboto", sans-serif;
+  }
+  
+  body {
+    background: linear-gradient(329.54deg, #121214 0%, #0f103c 100%);
+  
+    min-height: 100vh;
+    text-align: center;
+  
+    font-family: "Roboto", sans-serif;
+  }
+  
